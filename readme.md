@@ -18,7 +18,6 @@ This can be compiled from source using the command `python compile.py`
 ## Usage
 
 Enter your BIP39 phrase into the 'BIP39 Phrase' field, or press
-'Generate Random Phrase'
 
 If required, set the derivation path, although the defaults are quite usable.
 
