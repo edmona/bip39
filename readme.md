@@ -2,9 +2,6 @@
 
 A tool for converting BIP39 mnemonic phrases to addresses and private keys.
 
-https://iancoleman.io/bip39/
-
-
 Download `bip39-standalone.html` from
 [the releases](https://github.com/iancoleman/bip39/releases).
 
